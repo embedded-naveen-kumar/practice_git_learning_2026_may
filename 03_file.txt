@@ -1,2 +1,1 @@
-git is a stupid content tracker
-GIthub push successful
+This repo was cloned successfully
